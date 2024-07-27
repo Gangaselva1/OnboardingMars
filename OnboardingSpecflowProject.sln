@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnboardingSpecflowProject", "OnboardingSpecflowProject.csproj", "{04F992AC-AE3A-4961-A20C-93656EAE5694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F992AC-AE3A-4961-A20C-93656EAE5694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F992AC-AE3A-4961-A20C-93656EAE5694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F992AC-AE3A-4961-A20C-93656EAE5694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F992AC-AE3A-4961-A20C-93656EAE5694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7BA104B-BE63-4930-931A-285C7FAE1902}
+	EndGlobalSection
+EndGlobal
